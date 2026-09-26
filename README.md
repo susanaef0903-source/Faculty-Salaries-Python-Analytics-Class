@@ -1,6 +1,6 @@
-# Faculty Salaries Analysis
+# Assignment Four — Faculty Salaries Analysis
 
-Python Analytics Class (LaGuardia) — Salaries dataset assignment.
+Python Analytics Class (LaGuardia) — Assignment Four, Salaries dataset.
 
 I analyze the **Salaries** dataset (397 college professors: rank, discipline, years since PhD, years of service, sex, and salary) with pandas and matplotlib:
 
